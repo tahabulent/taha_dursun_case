@@ -6,6 +6,7 @@
 * [Allure](https://docs.qameta.io/allure/#_installing_a_commandline)
 * IntelliJ IDEA
 
+
 ### Steps
 1. Clone this project
 2. Open the project in Intellij IDEA
